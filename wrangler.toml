@@ -1,0 +1,6 @@
+[vars]
+INSTAGRAM_ACCESS_TOKEN = "your_page_access_token"
+TELEGRAM_BOT_TOKEN = "your_telegram_bot_token"
+TELEGRAM_CHANNEL_ID = "@ExE_Muzic" 
+INSTAGRAM_PAGE_ID = "your_instagram_page_id"
+VERIFY_TOKEN = "your_webhook_verify_token"
